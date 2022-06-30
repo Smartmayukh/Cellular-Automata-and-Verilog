@@ -1,18 +1,7 @@
 # Cellular-Automata-and-Verilog
 Simulating various Cellular Automata designs on different topologies like Flat plane, Toroid, Morbius loop, Klein's bottle using Verilog.
 
-One of the things which inspired me the most to read about Cellular Automata was the Lex Fridman Podcast with Stephen Wolfram. Here is a section of the podcast where Wolfram discusses about Cellular Automata and the Rule 30 prize 
-
-youtu.be/VguG_y05Xe8 
-
-Some cellular automata structures
-
-![image](https://user-images.githubusercontent.com/64318469/176685032-1893bf40-0d23-4572-b5c0-4c9d17dbc88a.png)
-
-<br />
-<br />
-<br />
-<br />
+<p align="center">
 
 RULE 90 IN VERILOG<br />
 
@@ -54,7 +43,7 @@ I wrote the Verilog code for Conway's Game of Life on a 16x16 toroid.
 
 
 
-
+</p>
 
 
 
