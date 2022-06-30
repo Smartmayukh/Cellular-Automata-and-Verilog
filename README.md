@@ -1,9 +1,9 @@
 # Cellular-Automata-and-Verilog
 Simulating various Cellular Automata designs on different topologies like Flat plane, Toroid, Morbius loop, Klein's bottle using Verilog.
 
-<p align="center">
-  
-  ![200](https://user-images.githubusercontent.com/64318469/176688237-b52a477b-8d57-446f-b55b-7bb1062f3729.gif)
+
+
+ ![200](https://user-images.githubusercontent.com/64318469/176688237-b52a477b-8d57-446f-b55b-7bb1062f3729.gif)
 
 
 RULE 90 IN VERILOG<br />
@@ -43,10 +43,6 @@ I wrote the Verilog code for Conway's Game of Life on a 16x16 toroid.
 
 ![image](https://user-images.githubusercontent.com/64318469/176686253-f438e987-2d8c-4b77-88ed-dfaf5e12741d.png)
 
-
-
-
-</p>
 
 
 
