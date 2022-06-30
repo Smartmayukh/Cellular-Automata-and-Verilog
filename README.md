@@ -11,6 +11,8 @@ RULE 90 IN VERILOG<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685181-7f48cf1d-41d1-43b1-8844-323f198738f4.png)<br />
 
 ![image](https://user-images.githubusercontent.com/64318469/176685144-769eb96c-559e-470e-a9e2-401438322e6f.png)<br />
+<br />
+<br />
 
 PYTHON SIMULATION<br />
 
@@ -26,6 +28,8 @@ RULE 110 IN VERILOG<br />
 
 ![image](https://user-images.githubusercontent.com/64318469/176685373-5d3792bf-1861-44a7-add3-1a20a8c583bf.png)<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685397-eb0d8bfa-507c-4b81-ba40-b0bd486d6984.png)<br />
+<br />
+<br />
 PYTHON SIMULATION<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685428-ae390f9d-1296-447e-8e73-139d8c16d883.png)
 <br />
