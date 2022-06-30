@@ -9,7 +9,6 @@ Some cellular automata structures
 
 ![image](https://user-images.githubusercontent.com/64318469/176685032-1893bf40-0d23-4572-b5c0-4c9d17dbc88a.png)
 
-![image](https://user-images.githubusercontent.com/64318469/176685075-374eaac9-348a-4bbd-9902-761a2bdffd4b.png)
 
 RULE 90 IN VERILOG
 
@@ -20,6 +19,44 @@ RULE 90 IN VERILOG
 PYTHON SIMULATION
 
 ![image](https://user-images.githubusercontent.com/64318469/176685233-5f8a20f5-6ed7-4fd5-8763-e896713c68f3.png)
+
+RULE 110 IN VERILOG
+
+Rule 110 has an interesting property called Turing Completeness.
+
+Here is a very interesting video on Turing Completeness
+
+youtu.be/RPQD7-AOjMI 
+
+![image](https://user-images.githubusercontent.com/64318469/176685373-5d3792bf-1861-44a7-add3-1a20a8c583bf.png)
+![image](https://user-images.githubusercontent.com/64318469/176685397-eb0d8bfa-507c-4b81-ba40-b0bd486d6984.png)
+PYTHON SIMULATION
+![image](https://user-images.githubusercontent.com/64318469/176685428-ae390f9d-1296-447e-8e73-139d8c16d883.png)
+CONWAY'S GAME OF LIFE
+Here is probably the last video on Conway's Game of Life by Professor John Conway before he passed away due to Covid
+
+www.youtube.com/watch?v=R9Plq-D1gEk&t=392s 
+
+I made a video on Conway's Game of Life with Rule 250 as starting configuration. Here is the link 
+
+youtube.com/shorts/ZfgRVDCBZLI?feature=share 
+
+I wrote the Verilog code for a 16x16 toroid. Coding was the easy part but debugging took me some time as the toroid edges has some interesting properties which were giving rise to various bugs in the code.
+
+![image](https://user-images.githubusercontent.com/64318469/176685499-91dd680c-5238-4e27-908a-c0a3bba4fff0.png)
+
+![image](https://user-images.githubusercontent.com/64318469/176685484-33bb12d8-df3e-43e1-b4f0-4c29d6a2fe67.png)
+![image](https://user-images.githubusercontent.com/64318469/176685524-7b02403a-c8f8-4862-9bce-43e8f8771062.png)
+
+Verilog output for blinker 
+
+
+
+
+
+
+
+
 
 
 
