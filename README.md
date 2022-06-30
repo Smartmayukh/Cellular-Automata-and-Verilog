@@ -34,8 +34,11 @@ I wrote the Verilog code for Conway's Game of Life on a 16x16 toroid.
 
 ![image](https://user-images.githubusercontent.com/64318469/176685499-91dd680c-5238-4e27-908a-c0a3bba4fff0.png)<br />
 
-![image](https://user-images.githubusercontent.com/64318469/176685484-33bb12d8-df3e-43e1-b4f0-4c29d6a2fe67.png)<br />
+
 ![image](https://user-images.githubusercontent.com/64318469/176685524-7b02403a-c8f8-4862-9bce-43e8f8771062.png)<br />
+
+![image](https://user-images.githubusercontent.com/64318469/176686253-f438e987-2d8c-4b77-88ed-dfaf5e12741d.png)
+
 
 
 
