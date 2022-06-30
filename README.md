@@ -29,22 +29,15 @@ RULE 110 IN VERILOG<br />
 PYTHON SIMULATION<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685428-ae390f9d-1296-447e-8e73-139d8c16d883.png)
 CONWAY'S GAME OF LIFE
-Here is probably the last video on Conway's Game of Life by Professor John Conway before he passed away due to Covid
 
-www.youtube.com/watch?v=R9Plq-D1gEk&t=392s 
+I wrote the Verilog code for Conway's Game of Life on a 16x16 toroid.
 
-I made a video on Conway's Game of Life with Rule 250 as starting configuration. Here is the link 
+![image](https://user-images.githubusercontent.com/64318469/176685499-91dd680c-5238-4e27-908a-c0a3bba4fff0.png)<br />
 
-youtube.com/shorts/ZfgRVDCBZLI?feature=share 
+![image](https://user-images.githubusercontent.com/64318469/176685484-33bb12d8-df3e-43e1-b4f0-4c29d6a2fe67.png)<br />
+![image](https://user-images.githubusercontent.com/64318469/176685524-7b02403a-c8f8-4862-9bce-43e8f8771062.png)<br />
 
-I wrote the Verilog code for a 16x16 toroid. Coding was the easy part but debugging took me some time as the toroid edges has some interesting properties which were giving rise to various bugs in the code.
 
-![image](https://user-images.githubusercontent.com/64318469/176685499-91dd680c-5238-4e27-908a-c0a3bba4fff0.png)
-
-![image](https://user-images.githubusercontent.com/64318469/176685484-33bb12d8-df3e-43e1-b4f0-4c29d6a2fe67.png)
-![image](https://user-images.githubusercontent.com/64318469/176685524-7b02403a-c8f8-4862-9bce-43e8f8771062.png)
-
-Verilog output for blinker 
 
 
 
