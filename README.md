@@ -2,6 +2,9 @@
 Simulating various Cellular Automata designs on different topologies like Flat plane, Toroid, Morbius loop, Klein's bottle using Verilog.
 
 <p align="center">
+  
+  ![200](https://user-images.githubusercontent.com/64318469/176688237-b52a477b-8d57-446f-b55b-7bb1062f3729.gif)
+
 
 RULE 90 IN VERILOG<br />
 
