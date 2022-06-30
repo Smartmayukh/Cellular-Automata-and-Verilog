@@ -10,27 +10,23 @@ Some cellular automata structures
 ![image](https://user-images.githubusercontent.com/64318469/176685032-1893bf40-0d23-4572-b5c0-4c9d17dbc88a.png)
 
 
-RULE 90 IN VERILOG
+RULE 90 IN VERILOG<br />
 
-![image](https://user-images.githubusercontent.com/64318469/176685181-7f48cf1d-41d1-43b1-8844-323f198738f4.png)
+![image](https://user-images.githubusercontent.com/64318469/176685181-7f48cf1d-41d1-43b1-8844-323f198738f4.png)<br />
 
-![image](https://user-images.githubusercontent.com/64318469/176685144-769eb96c-559e-470e-a9e2-401438322e6f.png)
+![image](https://user-images.githubusercontent.com/64318469/176685144-769eb96c-559e-470e-a9e2-401438322e6f.png)<br />
 
-PYTHON SIMULATION
+PYTHON SIMULATION<br />
 
-![image](https://user-images.githubusercontent.com/64318469/176685233-5f8a20f5-6ed7-4fd5-8763-e896713c68f3.png)
+![image](https://user-images.githubusercontent.com/64318469/176685233-5f8a20f5-6ed7-4fd5-8763-e896713c68f3.png)<br />
 
-RULE 110 IN VERILOG
+RULE 110 IN VERILOG<br />
 
-Rule 110 has an interesting property called Turing Completeness.
 
-Here is a very interesting video on Turing Completeness
 
-youtu.be/RPQD7-AOjMI 
-
-![image](https://user-images.githubusercontent.com/64318469/176685373-5d3792bf-1861-44a7-add3-1a20a8c583bf.png)
-![image](https://user-images.githubusercontent.com/64318469/176685397-eb0d8bfa-507c-4b81-ba40-b0bd486d6984.png)
-PYTHON SIMULATION
+![image](https://user-images.githubusercontent.com/64318469/176685373-5d3792bf-1861-44a7-add3-1a20a8c583bf.png)<br />
+![image](https://user-images.githubusercontent.com/64318469/176685397-eb0d8bfa-507c-4b81-ba40-b0bd486d6984.png)<br />
+PYTHON SIMULATION<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685428-ae390f9d-1296-447e-8e73-139d8c16d883.png)
 CONWAY'S GAME OF LIFE
 Here is probably the last video on Conway's Game of Life by Professor John Conway before he passed away due to Covid
