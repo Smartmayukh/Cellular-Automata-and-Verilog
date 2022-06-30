@@ -9,6 +9,10 @@ Some cellular automata structures
 
 ![image](https://user-images.githubusercontent.com/64318469/176685032-1893bf40-0d23-4572-b5c0-4c9d17dbc88a.png)
 
+<br />
+<br />
+<br />
+<br />
 
 RULE 90 IN VERILOG<br />
 
@@ -32,6 +36,10 @@ RULE 110 IN VERILOG<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685397-eb0d8bfa-507c-4b81-ba40-b0bd486d6984.png)<br />
 PYTHON SIMULATION<br />
 ![image](https://user-images.githubusercontent.com/64318469/176685428-ae390f9d-1296-447e-8e73-139d8c16d883.png)
+<br />
+<br />
+<br />
+<br />
 CONWAY'S GAME OF LIFE
 
 I wrote the Verilog code for Conway's Game of Life on a 16x16 toroid.
