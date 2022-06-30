@@ -47,6 +47,10 @@ I wrote the Verilog code for Conway's Game of Life on a 16x16 toroid.
 
 ![image](https://user-images.githubusercontent.com/64318469/176686253-f438e987-2d8c-4b77-88ed-dfaf5e12741d.png)
 
+<br />
+<br />
+
+
 You can check out my website on Cellular Automata and Verilog
 
 https://sites.google.com/view/cellular-automata-mayukhmali/home
