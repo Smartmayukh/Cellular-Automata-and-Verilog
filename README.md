@@ -19,6 +19,10 @@ RULE 90 IN VERILOG<br />
 PYTHON SIMULATION<br />
 
 ![image](https://user-images.githubusercontent.com/64318469/176685233-5f8a20f5-6ed7-4fd5-8763-e896713c68f3.png)<br />
+<br />
+<br />
+<br />
+<br />
 
 RULE 110 IN VERILOG<br />
 
